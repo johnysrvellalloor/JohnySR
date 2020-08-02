@@ -2,13 +2,13 @@
 <header style="position:inherit; width:100%; z-index:1" class="shadow">
 
 
-        <div class="row bg-dark text-secondary  " >
+        <div class="row bg-info text-primary  " >
            
                 <div class="col-md-6 col-9 p-3 pl-5  mr-auto">
                     <h2>JOHNY S R VELLALLOOR</h2>
                 </div>
                 <div class="col-md-6 col-3  my-auto ">
-                    <nav class="navbar navbar-expand-md navbar-dark bg-dark ">
+                    <nav class="navbar navbar-expand-md navbar-light bg-info ">
                   
                       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
